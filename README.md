@@ -1,7 +1,5 @@
 # PowerBI-Projects
 
-# Power BI Dashboards & Insights
-
 ![Power BI Banner](.assets/powerbiimage.PNG)
 
 Welcome to my collection of Power BI projects. These dashboards are the result of hands-on work with real-world datasets, focusing on storytelling through data, interactive visualization, and efficient data modeling.
