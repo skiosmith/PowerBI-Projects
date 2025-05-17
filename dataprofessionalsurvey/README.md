@@ -50,7 +50,7 @@ An interactive Power BI dashboard analyzing a global survey of data professional
 
 | Dashboard Overview | Country Comparison |
 |--------------------|---------------------|
-| ![Main View](.assets/survey_dashboard_main.png) | ![Map View](.assets/survey_map_view.png) |
+| ![Main View](.assets/dashboardpreview.png) | ![Map View](.assets/survey_map_view.png) |
 
 ---
 
