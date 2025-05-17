@@ -8,7 +8,7 @@ Welcome to my collection of Power BI projects. These dashboards are the result o
 
 ## 🔍 Projects
 
-### 📊 [Data Professional Survey Breakdown](data-professional-survey/README.md)
+### 📊 Data Professional Survey Breakdown
 
 A comprehensive analysis of a global survey on data professionals. This dashboard explores trends in roles, technologies, work-life balance, and diversity across countries.
 
@@ -18,7 +18,7 @@ A comprehensive analysis of a global survey on data professionals. This dashboar
 - Donut charts, slicers, maps, and bar visuals
 - Actionable insights and interactive filtering
 
-> 📂 Navigate to the project folder: [`/data-professional-survey`](data-professional-survey/)
+> 📂 Navigate to the project folder: [`/dataprofessionalsurvey`](data-professional-survey/)
 
 ---
 
