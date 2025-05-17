@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing a global survey of data professionals. This project provides insights into job roles, programming languages, salaries, education levels, work-life balance, and working environments across different countries.
 
-![Survey Dashboard Preview](.assets/survey_dashboard_preview.png)
+![Survey Dashboard Preview](.assets/dashboardpreview.png)
 
 ---
 
