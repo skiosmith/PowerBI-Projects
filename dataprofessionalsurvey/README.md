@@ -2,58 +2,73 @@
 
 An interactive Power BI dashboard analyzing a global survey of data professionals. This project provides insights into job roles, programming languages, salaries, education levels, work-life balance, and working environments across different countries.
 
+---
+
+## 📊 Dashboard Overview
+
+The dashboard offers filters for country, job role, and experience to help users explore:
+
+- Most common roles and programming languages preferred.
+- Salary patterns by region and role.
+- Work-life balance satisfaction.
+- Salary satisfaction.
+- Difficulty breaking into the Data field.
+
 ![Survey Dashboard Preview](.assets/dashboardpreview.png)
 
 ---
 
-## 🧠 Project Highlights
+## 🧹 Data Preparation
 
-### 🔧 Data Preparation
-- Cleaned raw survey data using **Power Query**
-- Removed nulls and irrelevant entries
-- Renamed and split columns using custom delimiters
-- Standardized data types
+In Power Query, I cleaned and transformed the dataset by:
 
-### 🧩 Data Modeling
-- Created an efficient and clean data model
-- Ensured relationships for smooth filtering
-- Applied naming conventions for clarity
+- Removing null and irrelevant values.
+- Renaming and splitting columns.
+- Using custom delimiters.
+- Changing data types for modeling.
 
-### 📈 Visualizations
-- Slicers for dynamic filtering by country, role, and tools
-- Bar and column charts for comparison metrics
-- Donut charts for distribution analysis
-- Card visuals for summary insights
-- Map visuals to show global distribution
+![Power Query Steps](.assets/survey_powerquery_cleaning.png)
 
 ---
 
-## 📂 Folder Contents
+## 🧩 Data Modeling
 
-| File | Description |
-|------|-------------|
-| `Bentils_Data_Professional_Survey_Breakdown.pbix` | The full Power BI report |
-| `.assets/` | Screenshots and visual previews |
-| `README.md` | This file |
+- Relationships were structured for clean navigation and performance.
+- Dimensions and fact tables organized logically.
 
 ---
 
-## 🧭 Key Learnings
+## 🔍 Focused Insights
 
-- Hands-on use of **Power Query** for real-world data wrangling
-- Dashboard design principles: clarity, interactivity, and responsiveness
-- Creating compelling narratives from complex datasets
+Here are focused views from the dashboard filtered by country:
 
----
+### United States
+![USA View](.assets/survey_focus_on_the_UnitedStates.png)
 
-## 📷 Screenshots
-
-| Dashboard Overview | Country Comparison |
-|--------------------|---------------------|
-| ![Main View](.assets/dashboardpreview.png) | ![Map View](.assets/survey_map_view.png) |
+### India
+![India View](.assets/survey_focus_on_India.png)
 
 ---
 
-## 🔗 Connect
+## 🛠️ Key Skills Demonstrated
 
-Made with 📊 and curiosity by [`skiosmith`](https://github.com/skiosmith)
+- Data cleaning using Power Query.
+- Efficient data modeling for reporting.
+- Designing intuitive visuals (charts, slicers, maps).
+- Deriving actionable insights from survey data.
+
+---
+
+## 📁 Files in this Project
+
+- `Bentils_Data_Professional_Survey_Breakdown.pbix` – The Power BI report.
+- `.assets/` – All project images and screenshots.
+- `README.md` – Documentation for the project.
+
+---
+
+## 📌 About
+
+**Author**: [skiosmith](https://github.com/skiosmith)
+
+This was my first Power BI project, and it strengthened my skills in visual analytics, data prep, and building insightful dashboards.
