@@ -18,7 +18,7 @@ A comprehensive analysis of a global survey on data professionals. This dashboar
 - Donut charts, slicers, maps, and bar visuals
 - Actionable insights and interactive filtering
 
-> 📂 Navigate to the project folder: [`/dataprofessionalsurvey`](data-professional-survey/)
+> 📂 Navigate to the project folder: [`/dataprofessionalsurvey`](dataprofessionalsurvey/)
 
 ---
 
