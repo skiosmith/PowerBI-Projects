@@ -16,9 +16,9 @@ OsStores needed a way to track their financial performance — identifying trend
 
 **📌 Data Preparation**
 - Used **Power Query** to clean the dataset by:
-  - Changing data types
-  - Removing nulls
-  - Renaming and transforming columns
+  - Changing data types.
+  - Removing nulls.
+  - Renaming and transforming columns.
 - Split and filtered unnecessary rows and ensured schema consistency.
 
 **🔧 Data Modeling**
@@ -36,10 +36,10 @@ OsStores needed a way to track their financial performance — identifying trend
 - Customized background and layout
 - Created theme and formatting for brand consistency
 - Used a combination of:
-  - KPI cards
-  - Time comparison charts
-  - Dynamic bar/line visuals
-  - Custom slicers and filters
+  - KPI cards.
+  - Time comparison charts.
+  - Dynamic bar/line visuals.
+  - Custom slicers and filters.
 
 ---
 
@@ -55,4 +55,18 @@ OsStores needed a way to track their financial performance — identifying trend
 
 ---
 
-## 📁 Project Structure
+## 🧠 Key Takeaways
+
+- Gained practical experience in **data cleaning with Power Query**
+- Built **custom date models** and **DAX measures** from scratch
+- Applied **time intelligence functions** to derive actionable business trends
+- Improved visual storytelling using **Power BI dashboards**
+
+---
+
+## 🧑‍💻 About
+
+Created by [@skiosmith](https://github.com/skiosmith)  
+This is part of a personal effort to build strong BI reporting and data storytelling skills using real-world scenarios.
+
+Feel free to explore, clone, and share feedback!
