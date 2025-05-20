@@ -37,7 +37,31 @@ A comprehensive analysis of a global survey on data professionals. This dashboar
 Each project contains:
 - `.pbix` report file
 - A detailed `README.md`
-- A `.assets/` folder with visuals or screenshots
+- A `.assets/` folder with visuals or screenshots.
+
+---
+
+### 2. [💼 OsStores Financial Dashboard](financialdashboards/README.md)
+
+An executive-level dashboard analyzing the financial performance of OsStores over time, including discounts, sales, profit, and margins.
+
+**Highlights:**
+- Power Query data cleansing with custom steps.
+- Custom Date Table using `CALENDAR` and `CALENDARAUTO`
+- DAX measures including `Profit Margin`, `Sales Amount`, and Time Intelligence calculations.
+- Dashboard layout with professional theming and dynamic filters.
+
+> Explore the project: [`/financialdashboards`](financialdashboards/)
+
+---
+
+## 📂 Repository Layout
+
+Each folder contains:
+- `.pbix` Power BI project file.
+- A dedicated `README.md` with project overview and screenshots.
+- A `.assets/` folder containing visuals.
+
 
 ---
 
