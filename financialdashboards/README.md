@@ -50,7 +50,7 @@ OsStores needed a way to track their financial performance — identifying trend
 | ![Main Dashboard](.assets/osstores_dashboard_main.png) | Final dashboard overview |
 | ![Data Model](.assets/osstores_data_table_model.png) | Relationship model between tables |
 | ![Power Query View](.assets/osstores_powerquery_cleaning.png) | Data cleaning steps (part 1) |
-| ![Power Query View 2](.assets/osstores_powerquery_cleaning 2.png) | Data cleaning steps (part 2) |
+| ![Power Query View 2](.assets/osstores_powerquery_cleaning_2.png) | Data cleaning steps (part 2) |
 | ![DAX Measure](.assets/osstores_dax_formula.png) | DAX formula showing time intelligence |
 
 ---
