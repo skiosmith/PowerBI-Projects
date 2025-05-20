@@ -41,7 +41,7 @@ Each project contains:
 
 ---
 
-### 2. [💼 OsStores Financial Dashboard](financialdashboards/README.md)
+### [💼 OsStores Financial Dashboard](financialdashboards/README.md)
 
 An executive-level dashboard analyzing the financial performance of OsStores over time, including discounts, sales, profit, and margins.
 
