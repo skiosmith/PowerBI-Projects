@@ -41,7 +41,7 @@ Each project contains:
 
 ---
 
-### [💼 OsStores Financial Dashboard](financialdashboards/README.md)
+### 💼 OsStores Financial Dashboard
 
 An executive-level dashboard analyzing the financial performance of OsStores over time, including discounts, sales, profit, and margins.
 
@@ -55,7 +55,7 @@ An executive-level dashboard analyzing the financial performance of OsStores ove
 
 ---
 
-## 📂 Repository Layout
+## 📂 Layout
 
 Each folder contains:
 - `.pbix` Power BI project file.
